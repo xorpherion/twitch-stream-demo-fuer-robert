@@ -6,7 +6,7 @@ namespace RobertGitProjekt
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hallo Welt!");
         }
     }
 }
